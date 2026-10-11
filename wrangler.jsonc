@@ -6,7 +6,7 @@
     "directory": "./public"
   },
   "routes": [
-    { "pattern": "tcelestino.dev", "custom_domain": true },
-    { "pattern": "www.tcelestino.dev", "custom_domain": true }
+    { "pattern": "tcelestino.dev.br", "custom_domain": true },
+    { "pattern": "www.tcelestino.dev.br", "custom_domain": true }
   ]
 }
